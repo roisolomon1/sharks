@@ -1,0 +1,39 @@
+body{
+   background-image: linear-gradient(lightblue,blue,darkblue);
+   font-size: larger;
+   
+}
+#navbar{
+    right: 20px;
+    background-color: lightblue;
+    width: 854px;
+    height: 100px;
+    position: sticky;
+    top: 0px;
+    left: 500px;
+    float: right;
+    
+}
+.item{
+    float: right;
+    width: 120px;
+    height: 100px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    border: 1px solid;      
+}
+.item2{
+    position: relative;
+    top: 10px;
+}
+#item3:hover{
+    background-color: blue;
+}
+#go_to{
+    padding: 2px;
+}
+
+
+    
+
